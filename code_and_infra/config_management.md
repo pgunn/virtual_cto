@@ -1,3 +1,4 @@
+# Config Management
 Use a recent version of Chef (only hosted in github or your own repos). If you have the techical ability to do so, run Chef headless and deliver the codebase to each host for local runs.
 
 Write linters and checks for your chef code to prevent bad or nonfunctional code from affecting your servers.

@@ -1,3 +1,4 @@
+# Source Control
 For as long as you can get away with it, use github to host all your repos. It has a solid UI, broad support (and any programmer you should consider hiring probably has already seen or used it), and its hook support is good enough for most purposes. For each entirely distinct project (meaning they do not share code), make a separate repo. When code is shared between separate coding projects (e.g. as a library), you should choose between:
 A) Managing versioning of it as a separate deliverable into an environment. This has some initial overhead but can make it easier to coordinate changes to the library
 B) Treating all code that depends on it as distinct parts of the same code repo. This has less overhead but as code complexity increases, its overheads tend to grow faster than the former option

@@ -1,3 +1,4 @@
+# Email and Calendar
 I suggest using Google Enterprise Suite for email and calendar. It requires very little administration, doesn't require running servers, and gives you a lot at low cost. People are used to it, the spam filtering is very good, and there are good mobile clients for all mobile platforms. 
 
 I recommend a company culture where people treat keeping their Google Calendar current seriously.
