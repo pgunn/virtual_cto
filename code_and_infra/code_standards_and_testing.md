@@ -15,9 +15,9 @@ For teams not working on a quick prototype, these tools are essential to keep co
 Spend time finding tools you like for your language. Some languages, like Go, have a lot of these tools built-in.
 
 For Python, consider:
-*yapf - Code formatter
-*nose - Testing framework
-*mypy - Type annotation checker
+* yapf - Code formatter
+* nose - Testing framework
+* mypy - Type annotation checker
 
 Whatever tools you pick should have ways to disable checks on certain blocks of code. Do not forbid developers from doing this.
 
